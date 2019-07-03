@@ -1,0 +1,6 @@
+12/13 07:54 PM - 08:26 PM | 00:28 | Star pyramid using C#
+01/04 07:20 PM - 08:20 PM | 01:00 | SQL Queries
+                                       -learn basics
+                                       -ER diagrams
+01/04 07:21 PM - 07:22 PM | 00:01 | Watch cat videos
+
