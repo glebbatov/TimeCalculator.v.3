@@ -1,4 +1,7 @@
-# TimeCalculator.v.3.0 [C#.GUI]
+<p align="left">
+  <img src="https://github.com/glebbatov/TimeCalculator.v.3/blob/master/Alecive-Flatwoken-Apps-Clock-C.ico" width="125">
+  <h1>TimeCalculator.v.3</h1></a>
+<p>
 
 Time Calculator is a time tracking app.
 Allow a user clock in/out, input a description, and see all data in viewbox. Allows change the data in the viewbox and save it (writes into *.txt file).
