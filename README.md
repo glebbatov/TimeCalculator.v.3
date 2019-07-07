@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://github.com/glebbatov/TimeCalculator.v.3/blob/master/Alecive-Flatwoken-Apps-Clock-C.ico" width="125">
   <h1>TimeCalculator.v.3</h1></a>
-  <h6>C#, UI, Visual Studio</h6>
+  <h4>C#, UI, Visual Studio</h4>
 <p>
 
 Time Calculator is a time tracking app.
